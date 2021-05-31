@@ -15,6 +15,11 @@ A command-line application that dynamically generates a README.md file from a us
  
 ## Installation
 After pulling the respository you must locally install node.js, npm, and the package Inquirer
+```bash
+npm init
+npm install inquirer
+node index.js
+```
 
 ## Usage
 
