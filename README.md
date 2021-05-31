@@ -18,7 +18,6 @@ After pulling the respository you must locally install node.js, npm, and the pac
 
 ## Usage
 
-<!-- TODO(FS): Use the application "asciinema" to record terminal and link movie to  -->
 View the video below for usage:
 [![asciicast](https://asciinema.org/a/4XWsuGT0ZMCoMSkKOV9KZ4wdZ.svg)](https://asciinema.org/a/4XWsuGT0ZMCoMSkKOV9KZ4wdZ)
 
